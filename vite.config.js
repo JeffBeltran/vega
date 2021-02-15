@@ -10,8 +10,6 @@ export default defineConfig({
       name: "Vega",
     },
     rollupOptions: {
-      // make sure to externalize deps that shouldn't be bundled
-      // into your library
       external: ["react"],
     },
   },
