@@ -1,3 +1,10 @@
+## [1.0.0-alpha.6](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2021-02-15)
+
+
+### Build System
+
+* remove debug statements ([c2cee74](https://github.com/JeffBeltran/vega/commit/c2cee743b08f41dd8fb09de684f1ae697cb06a6e))
+
 ## [1.0.0-alpha.5](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2021-02-15)
 
 
