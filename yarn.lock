@@ -218,6 +218,15 @@
     update-notifier "^2.2.0"
     yargs "^8.0.2"
 
+"@jeffbeltran/vega@^1.0.0-alpha.3":
+  version "1.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/@jeffbeltran/vega/-/vega-1.0.0-alpha.3.tgz#b4e4d7e0ed812569ee6ba0bc8d214efe32ffc900"
+  integrity sha512-Q8ZIAMV7jaAgQM78nrlO46IkIv6W+yi6SrCFyq2qz0F66cWHWICG6p893jaVurzb8ri2/brCGi3oEwI0C7fVWg==
+  dependencies:
+    react "^17.0.0"
+    react-dom "^17.0.0"
+    redaxios "^0.4.1"
+
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.4.tgz#d4b3549a5db5de2683e0c1071ab4f140904bbf69"
