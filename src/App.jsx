@@ -1,7 +1,6 @@
 import React from "react";
 import ReactJson from "react-json-view";
-// import { useNextLaunch } from "../lib/hooks";
-import { useNextLaunch } from "@jeffbeltran/vega";
+import { useNextLaunch } from "../lib/hooks";
 
 function App() {
   const { data: nextLaunch, isLoading, refetch } = useNextLaunch();

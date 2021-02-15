@@ -218,10 +218,10 @@
     update-notifier "^2.2.0"
     yargs "^8.0.2"
 
-"@jeffbeltran/vega@^1.0.0-alpha.4":
-  version "1.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/@jeffbeltran/vega/-/vega-1.0.0-alpha.4.tgz#77d35900f887cb50af9a6fa00587ac10b4350d9a"
-  integrity sha512-1t4kbOFxxliuE6zlw6hc0GzJFE3K4TUNg2v8b92t4Kvpoy7uR32dqXgABv+c/ZZHK/oRuHZHXrW0heSIBK1SRw==
+"@jeffbeltran/vega@^1.0.0-alpha.5":
+  version "1.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/@jeffbeltran/vega/-/vega-1.0.0-alpha.5.tgz#079f673967958a867f7541a90ef14ff9239dcc85"
+  integrity sha512-GVhMkLoMOSwOBZwRio7dYphpZkkRhATlFE+Ejq3Gz6mSQMboa8YKugkIM9GzEllOagSZGLeS15YSeM/FvdEalA==
   dependencies:
     react "^17.0.0"
     react-dom "^17.0.0"
