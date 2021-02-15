@@ -1,3 +1,10 @@
+## [1.0.0-alpha.5](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.4...v1.0.0-alpha.5) (2021-02-15)
+
+
+### Build System
+
+* debug ([055dd74](https://github.com/JeffBeltran/vega/commit/055dd745d1c66565756ab4868fd5c0265da8f946))
+
 ## [1.0.0-alpha.4](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2021-02-15)
 
 
