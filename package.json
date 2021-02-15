@@ -1,6 +1,5 @@
 {
   "name": "@jeffbeltran/vega",
-  "private": "false",
   "version": "1.0.0-alpha.2",
   "files": [
     "dist"
@@ -39,5 +38,8 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/JeffBeltran/vega",
-  "repository": "github:JeffBeltran/vega"
+  "repository": "github:JeffBeltran/vega",
+  "publishConfig": {
+    "access": "public"
+  }
 }
