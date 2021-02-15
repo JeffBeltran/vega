@@ -10,7 +10,7 @@ export default defineConfig({
       name: "Vega",
     },
     rollupOptions: {
-      external: ["react"],
+      external: ["react", "react-dom"],
     },
   },
   plugins: [reactRefresh()],
