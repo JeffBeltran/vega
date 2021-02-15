@@ -1,3 +1,10 @@
+## [1.0.0-alpha.3](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-02-15)
+
+
+### Build System
+
+* **npm:** fix access level issue for NPM ([331a518](https://github.com/JeffBeltran/vega/commit/331a5186fd16662c91cdbca5294f9a5fedade3ba))
+
 ## [1.0.0-alpha.2](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-02-15)
 
 
