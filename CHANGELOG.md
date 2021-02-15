@@ -1,3 +1,16 @@
+## [1.0.0-alpha.4](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2021-02-15)
+
+
+### Features
+
+* add React Query to simplify hook API ([76c2d71](https://github.com/JeffBeltran/vega/commit/76c2d71cdff85f327f3a4340f75ff4cd8a1ef959))
+
+
+### Build System
+
+* **package:** add package as dev dep for debugging published  version ([60c2e19](https://github.com/JeffBeltran/vega/commit/60c2e19160f162a28a018a044d1dadbacbe8200b))
+* **vite:** exclude react-dom from bundled package ([1fbc1ca](https://github.com/JeffBeltran/vega/commit/1fbc1cab17b2b696f8b3e1ef92b0630574bb2ce9))
+
 ## [1.0.0-alpha.3](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-02-15)
 
 
