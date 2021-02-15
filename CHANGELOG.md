@@ -1,3 +1,10 @@
+## [1.0.0-alpha.2](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-02-15)
+
+
+### Build System
+
+* **npm:** update private flag to allow publish on NPM ([965c600](https://github.com/JeffBeltran/vega/commit/965c600bc7b546a0bb242742f518a213dfd6e146))
+
 ## 1.0.0-alpha.1 (2021-02-15)
 
 
