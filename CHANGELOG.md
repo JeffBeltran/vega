@@ -1,3 +1,10 @@
+## [1.0.0-alpha.7](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.6...v1.0.0-alpha.7) (2021-02-18)
+
+
+### Build System
+
+* update Vite to release version ([f7e75ca](https://github.com/JeffBeltran/vega/commit/f7e75ca42a4008ba8455445195c9e07b34b7a16d))
+
 ## [1.0.0-alpha.6](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.5...v1.0.0-alpha.6) (2021-02-15)
 
 
