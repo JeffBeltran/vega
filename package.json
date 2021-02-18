@@ -24,7 +24,7 @@
   "dependencies": {
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "react-query": "^3.9.6",
+    "react-query": "^3.9.8",
     "redaxios": "^0.4.1"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "@vitejs/plugin-react-refresh": "^1.1.0",
     "react-json-view": "^1.21.1",
     "semantic-release": "^17.3.9",
-    "vite": "^2.0.0-beta.69"
+    "vite": "^2.0.1"
   },
   "license": "MIT",
   "homepage": "https://github.com/JeffBeltran/vega",
