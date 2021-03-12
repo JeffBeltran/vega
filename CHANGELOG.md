@@ -1,3 +1,10 @@
+## [1.0.0-alpha.9](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.8...v1.0.0-alpha.9) (2021-03-12)
+
+
+### Bug Fixes
+
+* fix missing exports ([5012a4b](https://github.com/JeffBeltran/vega/commit/5012a4b6fce28ecdc306bffc48e39a8dddf334cb))
+
 ## [1.0.0-alpha.8](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.7...v1.0.0-alpha.8) (2021-03-12)
 
 
