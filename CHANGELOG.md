@@ -1,3 +1,15 @@
+## [1.0.0-alpha.8](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.7...v1.0.0-alpha.8) (2021-03-12)
+
+
+### Features
+
+* add styled components and basic button example ([d11ff96](https://github.com/JeffBeltran/vega/commit/d11ff961233d60c7c9a69cddb4fca47377978447))
+
+
+### Build System
+
+* add tailwind for local demo page ([414d3c1](https://github.com/JeffBeltran/vega/commit/414d3c1f09ac8bb19ad11b2ca3289bfec425e3b0))
+
 ## [1.0.0-alpha.7](https://github.com/JeffBeltran/vega/compare/v1.0.0-alpha.6...v1.0.0-alpha.7) (2021-02-18)
 
 
