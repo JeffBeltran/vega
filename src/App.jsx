@@ -1,17 +1,40 @@
 import React from "react";
-import ReactJson from "react-json-view";
-import { useNextLaunch } from "../lib/hooks";
+import {
+  BrowserRouter as Router,
+  Redirect,
+  Switch,
+  Route,
+} from "react-router-dom";
+import Buttons from "./pages/components/Buttons";
+import Blank from "./pages/hooks/Blank";
+
+import NextLaunch from "./pages/hooks/NextLaunch";
+import RouteLayout from "./RouteLayout";
 
 function App() {
-  const { data: nextLaunch, isLoading, refetch } = useNextLaunch();
-
   return (
-    <div>
-      <h1>Next Launch</h1>
-      <h2>{isLoading ? `loading` : `loaded`}</h2>
-      <button onClick={refetch}>Get Info</button>
-      <ReactJson src={nextLaunch} name={false} />
-    </div>
+    <Router>
+      <Switch>
+        <RouteLayout path="/hooks/next-launch" title="Hooks">
+          <NextLaunch />
+        </RouteLayout>
+        <RouteLayout path="/hooks/foo-bar" title="Foo Bar">
+          <Blank />
+        </RouteLayout>
+        <Route path="/hooks">
+          <Redirect to="/hooks/next-launch" />
+        </Route>
+        <RouteLayout path="/components/buttons" title="Components">
+          <Buttons />
+        </RouteLayout>
+        <Route path="/components">
+          <Redirect to="/components/buttons" />
+        </Route>
+        <Route path="/">
+          <Redirect to="/components/buttons" />
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 

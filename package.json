@@ -35,7 +35,11 @@
     "@vitejs/plugin-react-refresh": "^1.1.0",
     "react-json-view": "^1.21.1",
     "semantic-release": "^17.3.9",
+    "styled-components": "^5.2.1",
     "vite": "^2.0.1"
+  },
+  "resolutions": {
+    "styled-components": "^5"
   },
   "license": "MIT",
   "homepage": "https://github.com/JeffBeltran/vega",
